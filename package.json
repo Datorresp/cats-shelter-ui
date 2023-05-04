@@ -29,6 +29,7 @@
   "devDependencies": {
     "@pact-foundation/pact": "^11.0.2",
     "chai": "^4.3.7",
-    "mocha": "^10.2.0"
+    "mocha": "^10.2.0",
+    "moxios": "^0.4.0"
   }
 }
